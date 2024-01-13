@@ -11,3 +11,7 @@ Latest tools and technpologies that aid software development
 `Syncfuusion`
 `Get UIKit`
 `Sonner`
+
+
+# Font Families 
+`Eb Garamond`
